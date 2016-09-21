@@ -13,6 +13,7 @@
             this.state.start('Boot');
             //Adding comments I expect to see in the game.js across the branch
             if (true) { }
+            if (false) { } // should never run
 
         }
     }
