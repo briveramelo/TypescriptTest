@@ -14,6 +14,8 @@
             //Adding comments I expect to see in the game.js across the branch
             if (true) { }
             //ready for conflicts baby!!
+            if (false) { } // should never run
+
         }
     }
 }
