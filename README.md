@@ -3,4 +3,8 @@ Intended to test visual studio .js and .jsmap exlcusion and build-time creation 
 
 NewTestBranch sampling
 
+
 Now the master is getting involved
+
+getting ready for a conflict
+
